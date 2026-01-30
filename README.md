@@ -10,9 +10,6 @@ Aplicación móvil desarrollada en Flutter para convertir números decimales a s
 - Botón para limpiar resultados
 - Soporte multiplataforma (Android, iOS, Web, Windows)
 
-## 📸 Capturas de Pantalla
-*(Agrega aquí tus capturas después)*
-
 ## 🛠️ Tecnologías Utilizadas
 - **Flutter 3.38.7** - Framework UI
 - **Dart** - Lenguaje de programación
